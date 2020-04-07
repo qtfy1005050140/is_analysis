@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="318.75px" preserveAspectRatio="none" style="width:381px;height:318px;" version="1.1" viewBox="0 0 381 318" width="381.25px" zoomAndPan="magnify"><defs><filter height="300%" id="fqy4gxlhgojfy" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.5"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="5.0" dy="5.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#fqy4gxlhgojfy)" height="103.772" style="stroke: #A80036; stroke-width: 1.875;" width="162.5" x="7.5" y="10"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="38.75" x="69.375" y="29.6899">读者1</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="8.75" x2="168.75" y1="35.4858" y2="35.4858"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.5" x="15" y="54.8108">姓名=袁鑫</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="147.5" x="15" y="71.8823">借书卡号=201710414325</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="72.5" x="15" y="88.9539">借书限额=10</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="65" x="15" y="106.0254">可用限额=2</text><rect fill="#FEFECE" filter="url(#fqy4gxlhgojfy)" height="86.7004" style="stroke: #A80036; stroke-width: 1.875;" width="140" x="213.75" y="18.75"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="68.75" x="249.375" y="38.4399">借阅记录1</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="215" x2="352.5" y1="44.2358" y2="44.2358"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="125" x="221.25" y="63.5608">借书日期=2020-01-05</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="125" x="221.25" y="80.6323">应还日期=2020-02-05</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="125" x="221.25" y="97.7039">还书日期=2020-02-01</text><rect fill="#FEFECE" filter="url(#fqy4gxlhgojfy)" height="69.6289" style="stroke: #A80036; stroke-width: 1.875;" width="167.5" x="200" y="211.875"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="38.75" x="264.375" y="231.5649">图书1</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="201.25" x2="366.25" y1="237.3608" y2="237.3608"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="152.5" x="207.5" y="256.6858">馆藏流水号=20200105001</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.5" x="207.5" y="273.7573">状态=借出</text><rect fill="#FEFECE" filter="url(#fqy4gxlhgojfy)" height="116.272" style="stroke: #A80036; stroke-width: 1.875;" width="122.5" x="33.75" y="188.75"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacingAndGlyphs" textLength="68.75" x="60.625" y="208.4399">图书品种1</text><line style="stroke: #A80036; stroke-width: 1.875;" x1="35" x2="155" y1="214.2358" y2="214.2358"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.5" x="41.25" y="233.5608">书名=三体</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="80" x="41.25" y="250.6323">国际书号=666</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="70" x="41.25" y="267.7039">作者=刘慈欣</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="107.5" x="41.25" y="284.7754">出版社=歌者出版社</text><line style="stroke: #A80036; stroke-width: 1.25; stroke-dasharray: 1.0,2.0;" x1="41.25" x2="53.75" y1="293.772" y2="293.772"/><!--MD5=[a4fe1dbd17448734ac0094c01744a313]
+link 读者1 to 借阅记录1--><path d="M170.2538,61.875 C184.7362,61.875 199.2188,61.875 213.7013,61.875 " fill="none" id="读者1-借阅记录1" style="stroke: #A80036; stroke-width: 1.25;"/><text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="8.75" x="180.1835" y="58.0722">1</text><text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="6.25" x="197.6185" y="57.8528">*</text><!--MD5=[c8cec92673196691ee34d989aa03291e]
+link 借阅记录1 to 图书1--><path d="M283.75,105.4525 C283.75,137.6738 283.75,181.4493 283.75,211.4588 " fill="none" id="借阅记录1-图书1" style="stroke: #A80036; stroke-width: 1.25;"/><text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="27.5" x="253.7148" y="134.1139">0..1</text><text fill="#000000" font-family="sans-serif" font-size="16.25" lengthAdjust="spacingAndGlyphs" textLength="8.75" x="273.9883" y="198.3361">1</text><!--MD5=[fcc8c5d6809199e0d906f50be0d948eb]
+link 图书品种1 to 图书1--><path d="M156.565,246.875 C170.9725,246.875 185.38,246.875 199.7875,246.875 " fill="none" id="图书品种1-图书1" style="stroke: #A80036; stroke-width: 1.25;"/><!--MD5=[d077ecbeff9261c4571b57d131354e18]
+@startuml
+object 读者1{
+姓名=袁鑫
+借书卡号=201710414325
+借书限额=10
+可用限额=2
+}
+object 借阅记录1{
+借书日期=2020-01-05
+应还日期=2020-02-05
+还书日期=2020-02-01
+}
+
+object 图书1{
+馆藏流水号=20200105001
+状态=借出
+}
+
+object 图书品种1{
+书名=三体
+国际书号=666
+作者=刘慈欣
+出版社=歌者出版社
+....
+}
+
+读者1 "1"-"*" 借阅记录1
+借阅记录1 "0..1"- -"1" 图书1
+图书1 -left- 图书品种1
+
+@enduml
+
+PlantUML version 1.2019.11(Sun Sep 22 18:02:15 GMT+08:00 2019)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.5+10-b520.30
+Operating System: Windows 10
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
