@@ -1,0 +1,30 @@
+@startuml
+actor 图书管理员
+
+读者 -> 图书管理员:发送还书请求
+activate 图书管理员
+activate 读者
+图书管理员 -> 读者:读取读者借阅信息
+读者 -> 资源项:获取资源项
+activate 资源项
+资源项 -> 借阅记录:取借阅记录
+activate 借阅记录
+deactivate 借阅记录
+资源项 -> 馆藏图书品种:取图书品种
+activate 馆藏图书品种
+deactivate 馆藏图书品种
+deactivate 资源项
+读者 -> 图书管理员:返回借阅相关信息
+deactivate 读者
+
+图书管理员 -> 借阅记录:登记还书日期
+activate 借阅记录
+deactivate 借阅记录
+opt 逾期
+图书管理员 -> 逾期记录:登记逾期记录
+activate 逾期记录
+deactivate 逾期记录
+end
+
+deactivate 图书管理员
+@enduml
