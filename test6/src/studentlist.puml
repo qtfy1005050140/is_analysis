@@ -1,0 +1,35 @@
+@startuml
+
+title:“查看学生列表”用例顺序图
+
+actor 教师
+actor 学生
+participant 课程
+participant 实验
+
+activate 教师
+    教师->课程:获取课程列表
+    activate 课程
+        opt 暂无进行中课程
+            课程->教师:返回空
+        end opt
+        课程->教师:返回课程列表
+        教师->课程:选择课程
+        loop 对每门课程
+                opt 暂无学生参加课程
+                    课程->教师:返回空
+                end opt
+                课程->实验:选择实验
+    deactivate 课程
+
+                activate 实验
+                    实验->学生:获取学生列表
+                    activate 学生
+                        学生->教师:返回学生列表
+                    deactivate 学生
+                deactivate 实验
+            deactivate 课程
+        end loop
+deactivate 教师
+
+@enduml
