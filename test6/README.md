@@ -31,16 +31,16 @@
 - ### [参见数据库设计](database/database.md)
 
 ## 6. 用例及界面详细设计
-- ### [“登录”用例](./usecase/login.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/登录.html)
-- ### [“登出”用例](./usecase/logout.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/顶部菜单.html)
-- ### [“老师选课”用例](./usecase/teach.md)
-- ### [“学生选课”用例](./usecase/lesson.md)
-- ### [“学生列表”用例](./usecase/studentlist.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/index.html)
-- ### [“评定成绩”用例](./usecase/dafen.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/评定成绩.html)
-- ### [“查看成绩”用例](./usecase/grades.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/查看成绩.html)
-- ### [“修改密码”用例](./usecase/password.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/顶部菜单.html)
-- ### [“修改用户信息”用例](./usecase/update.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/顶部菜单.html)
-- ### [“查看用户信息”用例](./usecase/yonghu.md),[界面](https://zwdcdu.github.io/is_analysis/test6/ui/顶部菜单.html)
+- ### [“登录”用例](./usecase/login.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/login.html)
+- ### [“登出”用例](./usecase/logout.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/top.html)
+- ### [“老师选课”用例](./usecase/teach.md)[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/teach.html)
+- ### [“学生选课”用例](./usecase/lesson.md)[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/lesson.html)
+- ### [“学生列表”用例](./usecase/studentlist.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/studentlist.html)
+- ### [“评定成绩”用例](./usecase/dafen.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/dafen.html)
+- ### [“查看成绩”用例](./usecase/grades.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/top.html)
+- ### [“修改密码”用例](./usecase/password.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/top.html)
+- ### [“修改用户信息”用例](./usecase/update.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/top.html)
+- ### [“查看用户信息”用例](./usecase/yonghu.md),[界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/top.html)
 
 
 

@@ -14,7 +14,7 @@
 ![sequence1](../img/grades.svg) 
 
 ## 3. 界面设计
-- 界面参照: https://zwdcdu.github.io/is_analysis/test6/ui/查看成绩.html
+- 界面参照: [界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/top.html)
 - API接口调用
     - 接口1：[getOneStudentResults](../api/getOneStudentResults.md) 
 

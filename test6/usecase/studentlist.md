@@ -44,7 +44,7 @@
 ![sequence1](../img/studentlist.svg) 
 
 ## 3. 界面设计
-- 界面参照: https://zwdcdu.github.io/is_analysis/test6/ui/index.html
+- 界面参照: [界面](https://qtfy1005050140.github.io/is_analysis_pages/ui2/studentlist.html)
 - API接口调用
     - 接口1：[getStudents](../api/getstudent.md) 
 
